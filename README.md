@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/KH-Ray/interactive-rating-component)
-- Live Site URL: [Add live site URL here](https://lively-duckanoo-5a1f31.netlify.app)
+- Solution URL: [https://github.com/KH-Ray/interactive-rating-component](https://github.com/KH-Ray/interactive-rating-component)
+- Live Site URL: [https://lively-duckanoo-5a1f31.netlify.app](https://lively-duckanoo-5a1f31.netlify.app)
 
 ## My process
 
